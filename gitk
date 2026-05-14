@@ -1,0 +1,23 @@
+[33mcommit 6971443f3e418f455dade72df956000ff9fb1df6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: EnryVardanyan <vardanyan.enry7@gmail.com>
+Date:   Thu May 14 15:33:20 2026 +0400
+
+    Add 1 line to song
+
+[33mcommit 9b3b446d7e740ca13c2dc8a296c28ccfb10236b0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EnryVardanyan <120783591+EnryVardanyan@users.noreply.github.com>
+Date:   Thu May 14 01:11:40 2026 +0400
+
+    add second to song
+
+[33mcommit 556a7f76f16f7ee0f4867e701f45c36c8a57f76f[m
+Author: EnryVardanyan <vardanyan.enry7@gmail.com>
+Date:   Thu May 14 00:59:18 2026 +0400
+
+    add first line in the song
+
+[33mcommit eec018ba4a82b622f7fee018b1cefc8620fa3fc7[m
+Author: EnryVardanyan <120783591+EnryVardanyan@users.noreply.github.com>
+Date:   Thu May 14 00:32:13 2026 +0400
+
+    Initial commit
